@@ -4,6 +4,8 @@
 
 To visualize and analyze sales from a Superstores dataset, uncovering seasonal patterns, top-performing categories, regional differences, and shipping trends
 
+https://www.linkedin.com/posts/jacklin-mary-32409434b_datascience-timeseries-salesforecasting-activity-7341494761981149186-nrqL?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFdmJcwB-fn3TknE7aYSKs2pJw7dcggJBFY
+
 Dashboard Breakdown
 
 & Key Insights
